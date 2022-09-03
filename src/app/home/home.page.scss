@@ -121,3 +121,12 @@ h2{
     margin: 4px;
   }
 }
+
+.previsao{
+  display: flex;
+  .max{ color: #ED7E17; }
+  .min{ color: #2D5A74; }
+  ion-icon{
+    width: 10px;
+  }
+}
